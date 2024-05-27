@@ -1,3 +1,5 @@
+#Description: Calculator project for the primary school children, with a scope to enhance for advanced calculations.
+
 #Calculator layout
 print("My Awesome Calculator")
 print("+---------------------+")
